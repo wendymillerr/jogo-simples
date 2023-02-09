@@ -51,7 +51,7 @@
     margin-top: 200px;
     width: 100px;
     margin-right: 500px;
-    animation: clouds-animation 15s infinite linear;
+    animation: clouds-animation 14s infinite linear;
 }
 .clouds:nth-child(3){
     margin: auto;
